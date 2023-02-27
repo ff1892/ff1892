@@ -1,14 +1,14 @@
-### 👋 Hi, I'm Gregory!
+### 👋 Привет, меня зовут Григорий!
 
-🚀 Frontend developer with experience in React and TypeScript, passionate about building high-quality web applications.  
+👨‍💻 Я &ndash; фронтенд-разработчик, увлеченный созданием качественных и интересных веб-приложений  
 
-🌟 Knowledgeable in accessibility and performance optimization, always striving to create user-friendly experiences that are fast and efficient.  
+✏️ Стремлюсь к написанию чистого кода, который легко понимать и масштабировать. Уделяю внимание доступности и оптимизации производительности  
 
-💻 Committed to writing clean, maintainable code that is easy to understand and scale. A firm believer in the importance of good software design and architecture.  
+🚀  Люблю работать в команде. Считаю, что сила в кооперации и готовности вместе решать задачи  
 
-📈 Constantly seeking new challenges and opportunities to learn and grow as a developer. Let's build something great together!  
+📈 Всегда ищу новые возможности для обучения и развития  
 
-### 🔧 My stack
+### Мой стек
 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24">
@@ -24,9 +24,18 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
 </p>
 
-### 📋 My stats
+### Мои контакты  
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/shchk/badges/large)](https://www.codewars.com/users/shchk)
+<div>
+<a href="https://t.me/farewellfire" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="Telegram" height="30"></a>
+<a href="mailto:grigorypoleshchuk@gmail.com">
+<img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" alt="Email" height="32"></a>
+</div>  
+
+### Статистика
+
+[![Codewarrior Profile Badges](https://www.codewars.com/users/shchk/badges/small)](https://www.codewars.com/users/shchk)
 
 
 <div>
